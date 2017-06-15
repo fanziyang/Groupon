@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fl_d"
+    tools:context="com.example.zy.groupon.fragment.DFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <include
+        android:id="@+id/bt_fragment_d"
+        layout="@layout/include_guide_button"></include>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/new_comer_guide_fg_4"/>
+
+    <include
+        layout="@layout/include_guide_d"/>
+
+</FrameLayout>

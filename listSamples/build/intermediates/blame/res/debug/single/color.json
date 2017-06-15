@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Groupon\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\Groupon\\viewpagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\Groupon\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\Groupon\\viewpagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    }
+]
